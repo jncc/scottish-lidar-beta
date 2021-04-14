@@ -19,7 +19,7 @@ var t,e=arguments[3];function n(t){return(n="function"==typeof Symbol&&"symbol"=
 
 },{}],"qcvZ":[function(require,module,exports) {
 
-},{"./assets/lidar_home_screenshot.jpg":[["lidar_home_screenshot.fec1681f.jpg","UiWA"],"UiWA"]}],"LcwX":[function(require,module,exports) {
+},{"./assets/lidar_home_screenshot.jpg":[["lidar_home_screenshot.c74ed53b.jpg","UiWA"],"UiWA"]}],"LcwX":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),require("@fortawesome/fontawesome-free/css/all.css"),require("bootstrap"),require("./styles.scss"),require("./intro.scss");
 },{"@fortawesome/fontawesome-free/css/all.css":"jE9z","bootstrap":"BQpi","./styles.scss":"HbIe","./intro.scss":"qcvZ"}],"AoWy":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),require("../shared");
