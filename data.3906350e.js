@@ -45,7 +45,7 @@ window.NodeList&&!NodeList.prototype.forEach&&(NodeList.prototype.forEach=functi
 },{}],"BWvR":[function(require,module,exports) {
 
 },{"./images/layers.png":[["layers.350ec81b.png","igUS"],"igUS"],"./images/layers-2x.png":[["layers-2x.d8c4f271.png","cPiA"],"cPiA"],"./images/marker-icon.png":[["marker-icon.b29b8023.png","tG0w"],"tG0w"]}],"TcwV":[function(require,module,exports) {
-"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var e="production",r="https://api.srsp.beta.jncc.io",i="https://ows.srsp.beta.jncc.io/scotland/wms",E="",t="";if(!r)throw"Environment variable CATALOG_API_ENDPOINT is required.";if(!i)throw"Environment variable AGGREGATE_LAYER_BASE_URL is required.";if(null==E)throw"Environment variable PAGE_EXTENSION is required.";if(null==t)throw"Environment variable INDEX_PAGE is required.";exports.env={NODE_ENV:e,CATALOG_API_ENDPOINT:r,AGGREGATE_LAYER_BASE_URL:i,PAGE_EXTENSION:E,INDEX_PAGE:t};
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var e="production",r="https://api.srsp.beta.jncc.io",i="https://ows.srsp.beta.jncc.io/geoserver/wms",E="",t="";if(!r)throw"Environment variable CATALOG_API_ENDPOINT is required.";if(!i)throw"Environment variable AGGREGATE_LAYER_BASE_URL is required.";if(null==E)throw"Environment variable PAGE_EXTENSION is required.";if(null==t)throw"Environment variable INDEX_PAGE is required.";exports.env={NODE_ENV:e,CATALOG_API_ENDPOINT:r,AGGREGATE_LAYER_BASE_URL:i,PAGE_EXTENSION:E,INDEX_PAGE:t};
 },{}],"JZ8d":[function(require,module,exports) {
 "use strict";function e(e){var o,r=e.Symbol;return"function"==typeof r?r.observable?o=r.observable:(o=r("observable"),r.observable=o):o="@@observable",o}Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=e;
 },{}],"LkZ7":[function(require,module,exports) {
@@ -635,4 +635,4 @@ var t=require("process");Object.defineProperty(exports,"__esModule",{value:!0}),
 },{"react":"n8MK","react-dom":"NKHc","ts-polyfill":"r6TH","whatwg-fetch":"MCp7","nodelist-foreach-polyfill":"nidE","leaflet/dist/leaflet.css":"BWvR","../env":"TcwV","./App":"hu8U"}],"KAAg":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),require("../shared"),require("../app/index");
 },{"../shared":"LcwX","../app/index":"oLVY"}]},{},["KAAg"], null)
-//# sourceMappingURL=/data.909916a8.js.map
+//# sourceMappingURL=/data.3906350e.js.map
